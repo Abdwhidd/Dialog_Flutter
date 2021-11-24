@@ -1,2 +1,16 @@
-# Dialog_Flutter
-1. Show Dialog 2. Splitting Widget 3. Konsep sederhana tentang Navigator Pop 4. Floating Action Button 5. Alert Dialog Widget 6. Flat Button &amp; Raise Button 7. Future then function
+# dialog
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
